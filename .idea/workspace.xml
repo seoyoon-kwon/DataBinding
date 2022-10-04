@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dbd3ed54-fcfb-4709-b3d6-858497f29f13" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/interpolation/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/interpolation/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interpolation/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/interpolation/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interpolation/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/interpolation/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interpolation/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/interpolation/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interpolation/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/interpolation/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interpolation/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/interpolation/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/property/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/property/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/property/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/property/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/property/src/app/app.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/property/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/property/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/property/src/app/app.module.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/interpolation" />
+  </component>
+  <component name="ProjectId" id="2FeKCo777JC6vnTZXIBsnmMhC4y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/kwonseoyun/WebstormProjects/DataBinding",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbd3ed54-fcfb-4709-b3d6-858497f29f13" name="Changes" comment="" />
+      <created>1664846984879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664846984879</updated>
+      <workItem from="1664846986494" duration="21000" />
+      <workItem from="1664848428761" duration="643000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
